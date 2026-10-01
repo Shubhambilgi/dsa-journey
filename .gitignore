@@ -1,3 +1,6 @@
+# =========================
+# C / C++
+# =========================
 # Prerequisites
 *.d
 
@@ -12,7 +15,7 @@
 *.map
 *.exp
 
-# Precompiled Headers
+# Precompiled headers
 *.gch
 *.pch
 
@@ -42,7 +45,7 @@
 *.idb
 *.pdb
 
-# Kernel Module Compile Results
+# Kernel module compile results
 *.mod*
 *.cmd
 .tmp_versions/
@@ -51,5 +54,73 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# debug information files
+# Debug information files
 *.dwo
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+out/
+target/
+bin/
+.gradle/
+build/
+
+# =========================
+# JavaScript / Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm/
+.eslintcache
+coverage/
+
+# =========================
+# TypeScript
+# =========================
+*.tsbuildinfo
+dist/
+.tsbuildinfo
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+
+# =========================
+# Editors / IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
