@@ -16,8 +16,8 @@ I learn one concept each day and implement it in both C++ and Java, so I can com
 
 ## 💻 Languages
 
-| Language | Folder | Status |
-|---|---|---|
+| Language | Folder 
+|---|---|---
 | C++ | [`cpp/`](cpp/) 
 | Java | [`java/`](java/) 
 
