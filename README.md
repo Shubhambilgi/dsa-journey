@@ -3,7 +3,7 @@
 
 My personal journey of learning **Data Structures and Algorithms (DSA)** through consistent practice, problem-solving, and implementation in multiple programming languages.
 
-I'm starting with **C++ and Java**, alternating between them on different days. After building a strong foundation in both, I'll expand this repository to include Python and other languages.
+I learn one concept each day and implement it in both C++ and Java, so I can compare how each language handles the same idea. I code it myself, run it, and save a screenshot of the output next to each code file.
 
 ## 🎯 Goals
 
